@@ -1,0 +1,76 @@
+body {
+  font-family: futura;
+  text-align: center;
+  background-color: #f8ede3;
+}
+
+h1 {
+  margin-top: 30px;
+}
+
+h5 {
+  font-weight: bold;
+}
+
+.location {
+  font-size: 30px;
+  margin-bottom: 40px;
+  font-weight: bold;
+}
+
+.input-group {
+  margin: 50px;
+}
+
+#button-addon2 {
+  margin-right: 300px;
+  background-color: #bdd2b6;
+  font-weight: bold;
+  color: black;
+}
+
+.col-card-md-6 {
+  padding: 10px;
+}
+
+.container {
+  font-size: large;
+}
+
+#todays {
+  margin: 50px 10px 50px 50px;
+  background-color: #fbf7f7;
+}
+
+.emoji {
+  font-size: 40px;
+}
+
+#date {
+  font-weight: bold;
+}
+
+#box,
+#box2,
+#box3,
+#box4,
+#box5 {
+  margin-right: 20px;
+}
+
+.border {
+  border-radius: 10px;
+  border-width: 3px;
+}
+
+.card {
+  border: none;
+}
+
+#top-container {
+  margin-top: 30px;
+}
+
+#searchbutton {
+  margin-top: 50px;
+}
